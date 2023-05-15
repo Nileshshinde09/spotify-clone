@@ -1,6 +1,6 @@
 import Sidebar from '../components/sidebar'
 import Homeheader from '../components/homeheader'
-import Homeheaderplaypage from '../components/Homeheaderplaypage'
+import Homeheaderplaypage from '../components/homeheaderplaypage'
 import focusdata from "../database/playlists/focus/data.json"
 import Signupbar from '../components/signupbar'
 import Firsthomepagewhitoutsignup from '../components/firsthomepagewhitoutsignup'
