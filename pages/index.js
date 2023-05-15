@@ -1,11 +1,11 @@
-import Sidebar from '@/components/sidebar'
-import Homeheader from '@/components/homeheader'
-import Homeheaderplaypage from '@/components/Homeheaderplaypage'
+import Sidebar from '../components/sidebar'
+import Homeheader from '../components/homeheader'
+import Homeheaderplaypage from '../components/Homeheaderplaypage'
 import focusdata from "../database/playlists/focus/data.json"
-import Signupbar from '@/components/signupbar'
-import Firsthomepagewhitoutsignup from '@/components/firsthomepagewhitoutsignup'
-import Footer from '@/components/footer'
-import Firsthomepaypagewithoutsignup from '@/components/firstplaypagewithoutsignup'
+import Signupbar from '../components/signupbar'
+import Firsthomepagewhitoutsignup from '../components/firsthomepagewhitoutsignup'
+import Footer from '../components/footer'
+import Firsthomepaypagewithoutsignup from '../components/firstplaypagewithoutsignup'
 import { useSelector} from "react-redux";
 export default function Home() {
   const visible=useSelector((state)=>state.app.client.openplaylistid) 
