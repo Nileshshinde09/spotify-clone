@@ -20,13 +20,11 @@ const smdevice = () => {
                     </p>
                 </div>
                 <div className="pt-10">
-                    <button className="bg-white px-8 py-4 rounded-full">
-                        <span className="text-black text-xl font-bold">Get the App</span>
-                    </button>
+                    <Link className="bg-white px-8 py-4 rounded-full" href={"https://play.google.com/store/apps/details?id=com.spotify.music&hl=en_IN&gl=US"}><span className="text-black text-xl font-bold">Get the App</span></Link>
                 </div>
                 <div className="pt-10 font-bold text-2xl text-neutral-200">
                     
-                    <Link href={"https://play.google.com/store/apps/details?id=com.spotify.music&hl=en_IN&gl=US"}>
+                    <Link href={"#"}>
                         Learn more
                     </Link>
                 </div>
