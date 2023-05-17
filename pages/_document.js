@@ -6,7 +6,7 @@ export default function Document() {
     <Html lang="en">
       <Head />
       <body className='overflow-hidden'>
-      <div><Sidebar /></div>
+      <div className="max-sm:hidden"><Sidebar /></div>
         <Main />
         <NextScript />
         
