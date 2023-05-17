@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "title":"Peaceful Piano",
+        "caption":"Preaceful piano to help you slow down,breaths, and relax.",
+        "likes":"7,035,287 likes",
+        "hr":"about 11 hr",
+        "img":"/thumbnails/peaceful_piano.jpg"
+
+    },
+    
+    {
+        "id":2,
+        "caption":"Keep calm and focus with ambient and post-rock music.",
+        "title":"Deep Focus",
+        "likes":"3,941,245 likes",
+        "hr":"about 10 hr",
+        "img":"/thumbnails/Deep_Focus.jpg"
+    },
+    {
+        "id":3,
+        "caption":"Focus with soft study music in the background.",
+        "title":"Instrumental Study",
+        "likes":"1,728,224 likes",
+        "hr":"about 12 hr",
+        "img":"/thumbnails/InstrumentalStudy.jpg"
+
+    },
+    {
+        "id":4,
+        "caption":"Uptempo instrumental hip hop beats.",
+        "title":"Focus Flow",
+        "likes":"381,839 likes",
+        "hr":"about 15 hr",
+        "img":"/thumbnails/focus.jpg"
+
+    },
+    {
+        "id":5,
+        "title":"Peaceful Piano",
+        "caption":"Preaceful piano to help you slow down,breaths, and relax.",
+        "likes":"7,035,287 likes",
+        "hr":"about 11 hr",
+        "img":"/thumbnails/peaceful_piano.jpg"
+
+    },
+    {
+        "id":6,
+        "caption":"Keep calm and focus with ambient and post-rock music.",
+        "title":"Deep Focus",
+        "likes":"3,941,245 likes",
+        "hr":"about 10 hr",
+        "img":"/thumbnails/Deep_Focus.jpg"
+
+    }
+]
