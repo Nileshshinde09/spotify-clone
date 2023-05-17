@@ -4,7 +4,6 @@ const smdevice = () => {
     return (
         <>
             <div className="flex flex-col items-center">
-                {/* spotify_logogreen.png */}
                 <div className="pt-16">
                     <span><Image src={"/spotify_logogreen.png"} width={65} height={65} /></span>
                 </div>

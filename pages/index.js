@@ -1,5 +1,4 @@
-import Sidebar from '../components/sidebar'
-import Signuppopup from '@/components/signuppopup'
+// import Signuppopup from '@/components/signuppopup'
 import Homeheader from '../components/homeheader'
 import Homeheaderplaypage from '../components/homeheaderplaypage'
 import focusdata from "../database/playlists/focus/data.json"
@@ -16,7 +15,7 @@ export default function Home() {
     <div className='max-sm:hidden'>
 
       <div className="flex col-auto-2">
-        <div><Sidebar /></div>
+        
         <div className='pl-52 w-full'>
           <div className='overflow-y-scroll h-screen absolute inset-0 left-52'>
             {
