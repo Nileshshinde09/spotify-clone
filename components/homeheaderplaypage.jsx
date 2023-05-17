@@ -14,11 +14,11 @@ const homeheaderplaypage = () => {
         <div className=" flex w-full">
             <div className="pt-4 pl-8">
         
-                    <button onClick={()=>{backpagenav()}}>
+                <button onClick={()=>{backpagenav()}}>
                 <div className="text-2xl rounded-full bg-transparent px-1 py-1 hover:bg-gray-800 hover:text-white text-gray-300">
                     <VscChevronLeft/>
                 </div>
-                    </button>
+                </button>
             </div>
             <div className="pt-4 px-1">
                 <button disabled>

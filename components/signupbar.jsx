@@ -1,5 +1,5 @@
-const signupbar =() =>{
-    return(
+const signupbar = () => {
+    return (
         <div className="bg-gradient-to-r from-pink-500 to-blue-500 h-16 flex">
             <div className="p-2  md:w-auto w-4/6">
             <h1 className="font-medium text-xs">PRIVIEW OF SPOTIFY</h1>
@@ -14,6 +14,7 @@ const signupbar =() =>{
         </div>
 
         </div>
+           
     )
 }
 export default signupbar;
