@@ -26,7 +26,7 @@ const smdevice = () => {
                 </div>
                 <div className="pt-10 font-bold text-2xl text-neutral-200">
                     
-                    <Link href={"#"}>
+                    <Link href={"https://play.google.com/store/apps/details?id=com.spotify.music&hl=en_IN&gl=US"}>
                         Learn more
                     </Link>
                 </div>
